@@ -17,7 +17,8 @@ The project will also update [the docs](#the-docs) section as the project gets u
   - [ ] the website
   - [ ] the files you have
   - [ ] the control panel, if you are an admin account
-  - [ ] 
+  - [ ] file transfering progress
+    - [ ] and an animation to play while you do your job, if I get to it
 - [ ] Downloading files
   - [ ] directly
   - [ ] with signed link proxies
